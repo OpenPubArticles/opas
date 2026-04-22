@@ -2,6 +2,9 @@
 
 Open Pub Articles (OPAs): https://opas.pubpub.org
 
+# OPAs <img src="OPAs.jpg" alt="OPAs" align="right" height="140"/>
+
+
 ---
 
 Publications/Yayınlar:
